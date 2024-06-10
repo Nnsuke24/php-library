@@ -1,5 +1,5 @@
 {
-    "name": "Nnsuke24/php-library",
+    "name": "nnsuke24/php-library",
     "description": "Composer sample project",
     "require": {
         "php": "^8.0"
