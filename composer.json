@@ -1,0 +1,10 @@
+{
+    "name": "Nnsuke24/php-library",
+    "description": "Composer sample project",
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {"Nnsuke24\\php-library\\": "src/"}
+    }
+}
