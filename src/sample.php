@@ -1,6 +1,6 @@
 <?php
 
-namespace Sample;
+namespace Nnsuke24\PhpLibrary;
 
 class Sample
 {
